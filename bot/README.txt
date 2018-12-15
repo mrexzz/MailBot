@@ -1,5 +1,5 @@
 1)Her 100 hesapta ---> "https://apps.emaillistverify.com/users/login" sitesinden yeni hesap açılacak,
-  hergün bu hesaplar 100 olarak yeniden dolar o yüzden eski hesapları kayıt altına alıp yeniden kullanabilirsiniz.
+  hergün bu hesaplar 100 olarak yeniden dolar o yüzden eski hesapları kayıt altına alıp yeniden kullanabilirsiniz.(hesap açmadan önce vpn   kullanın)
  
 2)pip kullanılarak(veya pip3) (requests,datetime,pycurl) kütüphaneleri indirilecek python3 için.("pip3 install requests" şeklinde indirilebilir.")veya
   (pip install requests" şeklinde indirilebilir.)
