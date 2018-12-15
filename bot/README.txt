@@ -1,14 +1,16 @@
-1)Her 100 hesapta ---> "https://apps.emaillistverify.com/users/login" sitesinden yeni hesap açılacak,
-  hergün bu hesaplar 100 olarak yeniden dolar o yüzden eski hesapları kayıt altına alıp yeniden kullanabilirsiniz.
+1)Her 100 hesapta ---> "https://apps.emaillistverify.com/users/login" sitesinden yeni hesap aÃ§Ä±lacak,
+  hergÃ¼n bu hesaplar 100 olarak yeniden dolar o yÃ¼zden eski hesaplarÄ± kayÄ±t altÄ±na alÄ±p yeniden kullanabilirsiniz.
  
-2)pip kullanılarak(veya pip3) (requests,datetime,pycurl) kütüphaneleri indirilecek python3 için.("pip3 install requests" şeklinde indirilebilir.")veya
-  (pip install requests" şeklinde indirilebilir.)
+2)pip kullanÄ±larak(veya pip3) (requests,datetime,pycurl) kÃ¼tÃ¼phaneleri indirilecek python3 iÃ§in.("pip3 install requests" ÅŸeklinde indirilebilir.")veya
+  (pip install requests" ÅŸeklinde indirilebilir.)
 
-3)Program python3 ile çalışır.(Kali linux için örnek çalıştırma,"sudo python3 bot.py")(python3.5.2 tavsiye edilir.)
+3)Program python3 ile Ã§alÄ±ÅŸÄ±r.(Kali linux iÃ§in Ã¶rnek Ã§alÄ±ÅŸtÄ±rma,"sudo python3 bot.py")(python3.5.2 tavsiye edilir.)
 
-4)100 hesap dolduktan sonra bot.py kısmında "#anahtar" işaretinin önünde bulunan kısma hesap açtığımız
-  sitedeki api bölümündeki anahtarı(key)kopyalıyoruz ve yapıştırıyoruz
+4)100 hesap dolduktan sonra bot.py kÄ±smÄ±nda "#anahtar" iÅŸaretinin Ã¶nÃ¼nde bulunan kÄ±sma hesap aÃ§tÄ±ÄŸÄ±mÄ±z
+  sitedeki api bÃ¶lÃ¼mÃ¼ndeki anahtarÄ±(key)kopyalÄ±yoruz ve yapÄ±ÅŸtÄ±rÄ±yoruz
 
+5)file.txt'ye YÃ¼klenecek  mail adresler.
 
+6)cevap.txt'ye kullanÄ±labilecek olan mail adresleri yÃ¼klenecek
 
 						Yazan:Mr.ex
