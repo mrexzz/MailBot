@@ -9,7 +9,7 @@ mail = open("file.txt", "r+")
 cevap = open("cevap.txt", "r+")
 kalan = 100
 for i in mail:
-    E = EmailListVerifyOne('KQOHp6SwlxP6yeePWo104', '{0}'.format(i))
+    E = EmailListVerifyOne('KQOHp6SwlxP6yeePWo104', '{0}'.format(i))#anahtar KQOHp6SwlxP6yeePWo104 kısmında
     result = E.control()
 
     if (result == "ok"):
